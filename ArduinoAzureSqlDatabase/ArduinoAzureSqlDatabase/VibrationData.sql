@@ -1,6 +1,6 @@
 ﻿CREATE TABLE [dbo].[VibrationData]
 (
 	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
-    [Velocity] DECIMAL(18, 4) NOT NULL, 
+    [Velocity] DECIMAL(18, 8) NOT NULL, 
     [Date] DATETIME2 NOT NULL
 )
