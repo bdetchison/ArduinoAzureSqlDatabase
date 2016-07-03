@@ -62,7 +62,8 @@
     <Build Include="VibrationData.sql" />
     <Build Include="InsertVibrationData.sql" />
     <Build Include="GetAllVibrationData.sql" />
-    <Build Include="QuerySelectAll.sql" />
+    <Build Include="MachineLearningData.sql" />
+    <Build Include="InsertMachineLearningData.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="ArduinoAzureSqlDatabase.refactorlog" />
